@@ -1,1 +1,1 @@
-# practica
+# practica Buenos dias somos Marco Antonio Perez Rivillas y Maria Arango, les vamos a presentar nuestra practica de lenguajes de programacion aplicando los conocimientos aprendidos en clase como por ejemplo el uso de los punteros , nodos y la implementacion de diversos metodos para mostrarles como funciona el " Hotel". Esta practica fue hecha en VisualStudioCode.
